@@ -1,3 +1,15 @@
+# Student Information
+
+| Field | Details |
+|---|---|
+| Student Name | Clement Modebe
+| Student ID | 
+| Course Name | Advanced Cybercrime Investigation |
+| Instructor Name | Mr. Aminu Idris, AMCPN |
+| Date of Submission | 
+
+
+
 # Advanced Static Malware Analysis of `Malware.stage0.exe.malz`
 
 ## Project Overview
